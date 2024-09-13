@@ -5,530 +5,590 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.5308122, 12.3501902 ]
+          "coordinates": [-1.5308122, 12.3501902]
         },
         "properties": {
           "Lieu": "SIAO",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6097706, 12.3702159 ]
+          "coordinates": [-1.6097706, 12.3702159]
         },
         "properties": {
           "Lieu": "Institut Français",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.5871867, 12.3758377 ]
+          "coordinates": [-1.5871867, 12.3758377]
         },
         "properties": {
           "Lieu": "GOETHE-Institut OUAGADOUGOU",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.5913269, 12.3682498 ]
+          "coordinates": [-1.5913269, 12.3682498]
         },
         "properties": {
           "Lieu": "Centre culturel Americain",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6361879, 12.3463456 ]
+          "coordinates": [-1.6361879, 12.3463456]
         },
         "properties": {
-          "Lieu": "Centre Culturel Burkinabé",
-          "Type": "Centre culturel"
+          "Lieu": "Centre Culturel Burkinabè",
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6318463, 12.3349876 ]
+          "coordinates": [-1.6318463, 12.3349876]
         },
         "properties": {
           "Lieu": "Palais de la jeunesse et de la culture",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.5563779, 12.3819956 ]
+          "coordinates": [-1.5563779, 12.3819956]
         },
         "properties": {
           "Lieu": "Espace culturel Gambidi",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.5930374, 12.3799984 ]
+          "coordinates": [-1.5930374, 12.3799984]
         },
         "properties": {
           "Lieu": "ANAPAP",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6083386, 12.3308059 ]
+          "coordinates": [-1.6083386, 12.3308059]
         },
         "properties": {
           "Lieu": "Espace morene",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6338538, 12.3380106 ]
+          "coordinates": [-1.6338538, 12.3380106]
         },
         "properties": {
           "Lieu": "THEATRE SOLEIL",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.5803026, 12.3594574 ]
+          "coordinates": [-1.5803026, 12.3594574]
         },
         "properties": {
           "Lieu": "CERFI",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6369736, 12.3579803 ]
+          "coordinates": [-1.6369736, 12.3579803]
         },
         "properties": {
           "Lieu": "Espace Napam Beogo/Mains du Monde",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6379899, 12.3600325 ]
+          "coordinates": [-1.6379899, 12.3600325]
         },
         "properties": {
           "Lieu": "Place de la Femme",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6327781, 12.2018132 ]
+          "coordinates": [-1.6327781, 12.2018132]
         },
         "properties": {
-          "Lieu": "Espace culturel de Kienfangué",
-          "Type": "Centre culturel"
+          "Lieu": "Espace culturel de Kienfangue",
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6095521, 12.3563062 ]
+          "coordinates": [-1.6095521, 12.3563062]
         },
         "properties": {
           "Lieu": "Centre Culturel Georges Kabore",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6240626, 12.3786859 ]
+          "coordinates": [-1.6240626, 12.3786859]
         },
         "properties": {
           "Lieu": "OUIDI NAABA",
-          "Type": "Centre culturel"
+          "Type": "Centre culturel",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6327626, 12.3568696 ]
+          "coordinates": [-1.6327626, 12.3568696]
         },
         "properties": {
-          "Lieu": "Atelier Théâtre Burkinabé",
-          "Type": "Theatre"
+          "Lieu": "Atelier Théâtre Burkinabè",
+          "Type": "Theatre",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6139669, 12.3770009 ]
+          "coordinates": [-1.6139669, 12.3770009]
         },
         "properties": {
-          "Lieu": "Espace Grâce Théâtre",
-          "Type": "Theatre"
+          "Lieu": "Espace Grèce Théâtre",
+          "Type": "Theatre",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6338538, 12.3380106 ]
+          "coordinates": [-1.6338538, 12.3380106]
         },
         "properties": {
           "Lieu": "THEATRE SOLEIL",
-          "Type": "Theatre"
+          "Type": "Theatre",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.5236, 12.37219 ]
+          "coordinates": [-1.5647723, 12.3719756]
         },
         "properties": {
           "Lieu": "Maison du peuple",
-          "Type": "Theatre"
+          "Type": "Theatre",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6180688, 12.3539509 ]
+          "coordinates": [-1.6180688, 12.3539509]
         },
         "properties": {
           "Lieu": "Theatre populaire",
-          "Type": "Theatre"
+          "Type": "Theatre",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.5898025, 12.3949367 ]
+          "coordinates": [-1.5898025, 12.3949367]
         },
         "properties": {
           "Lieu": "Théâtre de l'espoir pour le développement, Babouanga",
-          "Type": "Theatre"
+          "Type": "Theatre",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.5912625, 12.4113917 ]
+          "coordinates": [-1.5912625, 12.4113917]
         },
         "properties": {
           "Lieu": "Wecre théâtre",
-          "Type": "Theatre"
+          "Type": "Theatre",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.5980601, 12.3740585 ]
+          "coordinates": [-1.5980601, 12.3740585]
         },
         "properties": {
           "Lieu": "CENASA",
-          "Type": "Theatre"
+          "Type": "Theatre",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6030406, 12.3671171 ]
+          "coordinates": [-1.6030406, 12.3671171]
         },
         "properties": {
           "Lieu": "Cinéma Burkina Faso",
-          "Type": "Theatre"
+          "Type": "Theatre",
+          "Ville": "Ouagadougou"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [ -1.6125322, 12.3595978 ]
+          "coordinates": [-1.6094892, 12.3654732]
         },
         "properties": {
-          "Lieu": "CITO (Carrefour International du théâtre de Ouagadougou)",
-          "Type": "Theatre"
+          "Lieu": "Les Récréateurs",
+          "Type": "Theatre",
+          "Ville": "Ouagadougou"
         }
       },
       {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -4.3751252, 11.1701202 ]
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.6125322, 12.3595978]
+          },
+          "properties": {
+            "Lieu": "CITO (Carrefour International du theatre de Ouagadougou)",
+            "Type": "Theatre",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Théâtre de l’amitié",
-          "Type": "Theatre"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.6361879, 12.3463456 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-4.3751252, 11.1701202]
+          },
+          "properties": {
+            "Lieu": "Théâtre de l’amitié",
+            "Type": "Theatre",
+            "Ville": "Bobo-dioulasso"
+          }
         },
-        "properties": {
-          "Lieu": "Centre Culturel Burkinabé",
-          "Type": "Theatre"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.3629207, 12.5443036 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.6361879, 12.3463456]
+          },
+          "properties": {
+            "Lieu": "Centre Culturel Burkinabè",
+            "Type": "Theatre",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Opera Village Africa",
-          "Type": "Theatre"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.567567, 12.3813337 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.3629207, 12.5443036]
+          },
+          "properties": {
+            "Lieu": "Opera Village Africa",
+            "Type": "Theatre",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Galerie KAALA",
-          "Type": "Galerie d'art"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.5669624, 12.3574498 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.567567, 12.3813337]
+          },
+          "properties": {
+            "Lieu": "Galerie KAALA",
+            "Type": "Galerie d'art",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Studio Hamed Ouattara",
-          "Type": "Galerie d'art"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.6325724, 12.3542116 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.5669624, 12.3574498]
+          },
+          "properties": {
+            "Lieu": "Studio Hamed Ouattara",
+            "Type": "Galerie d'art",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Galerie Kanudya",
-          "Type": "Galerie d'art"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -4.424105, 11.1772012 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.6325724, 12.3542116]
+          },
+          "properties": {
+            "Lieu": "Galerie Kanudya",
+            "Type": "Galerie d'art",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Galerie TOGONDA",
-          "Type": "Galerie d'art"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.377081, -1.472554 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-4.424105, 11.1772012]
+          },
+          "properties": {
+            "Lieu": "Galerie TOGONDA",
+            "Type": "Galerie d'art",
+            "Ville": "Bobo-dioulasso"
+          }
         },
-        "properties": {
-          "Lieu": "Musée National du Burkina Faso",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.599183, 12.3734999 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.5141381, 12.3764733]
+          },
+          "properties": {
+            "Lieu": "Musée National du Burkina Faso",
+            "Type": "Musée",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Musée de la Musique de Ouaga",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -2.458973, 12.23699 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.599183, 12.3734999]
+          },
+          "properties": {
+            "Lieu": "Musée de la Musique de Ouaga",
+            "Type": "Musée",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Maasmé Issouka - Palais Du Naaba d'Issouka",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -4.30592053, 11.198693925 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-2.458973, 12.23699]
+          },
+          "properties": {
+            "Lieu": "Maasmè Issouka - Palais Du Naaba d'Issouka",
+            "Type": "Musée",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Musée communal Sogossira Sanou",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -3.178548753, 10.332873097 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-4.3385704, 11.1690379]
+          },
+          "properties": {
+            "Lieu": "Musée communal Sogossira Sanou",
+            "Type": "Musée",
+            "Ville": "Bobo-dioulasso"
+          }
         },
-        "properties": {
-          "Lieu": "Musée de civilisations des peuples Lobi",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.28444444, 12.53666667 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-3.2197703, 10.3326952]
+          },
+          "properties": {
+            "Lieu": "Musée de civilisations des peuples Lobi",
+            "Type": "Musée",
+            "Ville": "Gaoua"
+          }
         },
-        "properties": {
-          "Lieu": "Sculptures sur granit de Laongo",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -2.4620768, 12.236001 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.28444444, 12.53666667]
+          },
+          "properties": {
+            "Lieu": "sculptures sur granit de Laongo",
+            "Type": "Musée",
+            "Ville": "Ziniaré"
+          }
         },
-        "properties": {
-          "Lieu": "Musée Rayimi",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -0.9415168, 11.044048 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-2.4620768, 12.236001]
+          },
+          "properties": {
+            "Lieu": "Musée Rayimi",
+            "Type": "Musée",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Cour Royale de Konkoa",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.6335237, 12.3852233 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-0.9415168, 11.044048]
+          },
+          "properties": {
+            "Lieu": "Cour Royale de Konkoa",
+            "Type": "Musée",
+            "Ville": "Bobo-dioulasso"
+          }
         },
-        "properties": {
-          "Lieu": "11 arbres",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.695, 12.91 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.6335237, 12.3852233]
+          },
+          "properties": {
+            "Lieu": "11 arbres",
+            "Type": "Musée",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Musée de Manéga",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.5963516, 12.3692329 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.5512658, 12.7832685]
+          },
+          "properties": {
+            "Lieu": "Musée de Manèga",
+            "Type": "Musée",
+            "Ville": "Nongou"
+          }
         },
-        "properties": {
-          "Lieu": "Administration Des Archives Nationales",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -3.2609723, 10.3326873 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.5963516, 12.3692329]
+          },
+          "properties": {
+            "Lieu": "Administration Des Archives Nationales",
+            "Type": "Musée",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Musée de Gaoua",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.5906638, 12.3768016 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-3.2609723, 10.3326873]
+          },
+          "properties": {
+            "Lieu": "Musée de Gaoua",
+            "Type": "Musée",
+            "Ville": "Gaoua"
+          }
         },
-        "properties": {
-          "Lieu": "Mémorial Thomas Sankara",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -1.3245748, 11.9780922 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.5906638, 12.3768016]
+          },
+          "properties": {
+            "Lieu": "Mémorial Thomas Sankara",
+            "Type": "Musée",
+            "Ville": "Ouagadougou"
+          }
         },
-        "properties": {
-          "Lieu": "Vieille Mosquée de Nagnimi",
-          "Type": "Musée"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [ -2.4657246, 13.5423016 ]
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-1.3245748, 11.9780922]
+          },
+          "properties": {
+            "Lieu": "Vieille Mosquée de Nagnimi",
+            "Type": "Musée",
+            "Ville": "Bazèga"
+          }
         },
-        "properties": {
-          "Lieu": "Forêt Bangr-Raaga de Gourga",
-          "Type": "Musée"
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-2.4657246, 13.5423016]
+          },
+          "properties": {
+            "Lieu": "Forêt Bangr-Raaga de Gourga",
+            "Type": "Musée",
+            "Ville": "Gourga"
+          }
         }
-      }
-    ]
+    ]  
   }
   
